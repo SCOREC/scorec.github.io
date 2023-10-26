@@ -8,9 +8,13 @@ Computational Science and Engineering Seminars are an avenue for researchers to 
 
 ## Schedule
 ### 2023
+All seminars are located in JEC 3117 from 4-5PM unless otherwise noted.
+
 - 11/29: **TBD**, *Fabian Maximilian Faulstich*
 - 11/15: **TBD**, *Tucker Babcock*
 - 11/1: **RPI Platforms - CCI and Quantum Computer**, *Jay McGlothlin and CCI Team*
+  > Computational science is core to the academic and research enterprise at Rensselaer.  We procure and operate leadership class systems to enable our researchers' projects.   Our presention will provide information on 3 of these systems.  The two super computers at the Center for Computational Innovation (CCI), AiMOS and AiMOSx, and Rensselaer's new IBM Quantum System One.  It will cover the technical details and information on how you can access and use these for your research needs.  Collaboration with you, our clients, is key to meeting these current and future needs.  The Manager of Research Computing Jay McGlothlin, CCI Director Chris Carothers , and CCI System Engineer Andrew Damin will be available for questions and feedback at the end of the presentation.
+
 - 10/18: **GraphPAN - ML Preconditioner for Advection-dominated Non-symmetric problems**, *Soha Yusuf*
   >Solving large linear systems is a fundamental problem in many scientific and engineering domains. In recent years, there has been a growing interest in using machine learning techniques to accelerate the convergence of iterative solvers. My work proposes a novel approach that uses a graph neural network for preconditioning GMRES. We generate data by solving the linear advection equation in MFEM, and then perform incomplete LU factorization using message-passing graph neural network. This approach builds on recent advances in deep learning and graph neural networks and shows promising results on a set of benchmark problems, reducing the computational cost of solving large linear systems. The implications of this work extend to the development of efficient and scalable algorithms for scientific computing and data analysis.
 
