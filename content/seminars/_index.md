@@ -11,7 +11,9 @@ Computational Science and Engineering Seminars are an avenue for researchers to 
 All seminars are located in JEC 3117 from 4-5PM unless otherwise noted.
 
 - 11/29: **TBD**, *Fabian Maximilian Faulstich*
-- 11/15: **TBD**, *Tucker Babcock*
+- 11/15: **Multi-Fidelity Error-Estimate Based Model-Management**, *Tucker Babcock*
+  > We present a novel multi-fidelity optimization algorithm that globalizes the optimization based on the estimated error between the low-fidelity and high-fidelity models. The optimization algorithm is similar to classical multi-fidelity trust-region model-management approaches, but it replaces the trust-radius constraint with a bound on the estimated error between the low- and high-fidelity models. This enables globalization without requiring the user to specify non-intuitive parameters such as the initial trust radius. We demonstrate the framework on a series of analytical optimization problems and a realistic electric-motor optimization. We show that for low-fidelity models that accurately capture the trends of the high-fidelity model, the developed framework can significantly improve the efficiency of obtaining high-fidelity optima compared to a direct high-fidelity optimization.
+
 - 11/1: **RPI Platforms - CCI and Quantum Computer**, *Jay McGlothlin and CCI Team*
   > Computational science is core to the academic and research enterprise at Rensselaer.  We procure and operate leadership class systems to enable our researchers' projects.   Our presention will provide information on 3 of these systems.  The two super computers at the Center for Computational Innovation (CCI), AiMOS and AiMOSx, and Rensselaer's new IBM Quantum System One.  It will cover the technical details and information on how you can access and use these for your research needs.  Collaboration with you, our clients, is key to meeting these current and future needs.  The Manager of Research Computing Jay McGlothlin, CCI Director Chris Carothers , and CCI System Engineer Andrew Damin will be available for questions and feedback at the end of the presentation.
 
