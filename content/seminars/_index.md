@@ -10,7 +10,8 @@ Computational Science and Engineering Seminars are an avenue for researchers to 
 ### 2023
 All seminars are located in JEC 3117 from 4-5PM unless otherwise noted.
 
-- 11/29: **TBD**, *Fabian Maximilian Faulstich*
+- 11/29: **Strongly correlated quantum chemistry: numerical analysis and application of the TCC method**, *Fabian Maximilian Faulstich*
+  > Strongly correlated quantum systems include some of the most challenging problems in science. I will present the first numerical analysis for the coupled cluster method tailored by matrix product states, which is a promising method for handling strongly correlated systems. I will then discuss recent applications of the coupled cluster method and matrix product states for solving the magic angle twisted bilayer graphene system at the level of interacting electrons.
 - 11/15: **Multi-Fidelity Error-Estimate Based Model-Management**, *Tucker Babcock*
   > We present a novel multi-fidelity optimization algorithm that globalizes the optimization based on the estimated error between the low-fidelity and high-fidelity models. The optimization algorithm is similar to classical multi-fidelity trust-region model-management approaches, but it replaces the trust-radius constraint with a bound on the estimated error between the low- and high-fidelity models. This enables globalization without requiring the user to specify non-intuitive parameters such as the initial trust radius. We demonstrate the framework on a series of analytical optimization problems and a realistic electric-motor optimization. We show that for low-fidelity models that accurately capture the trends of the high-fidelity model, the developed framework can significantly improve the efficiency of obtaining high-fidelity optima compared to a direct high-fidelity optimization.
 
